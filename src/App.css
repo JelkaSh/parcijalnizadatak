@@ -1,3 +1,18 @@
+body {
+  background-color: #f0f8fa;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  text-align: left;
+}
+
+button {
+  width: 200px;
+  height: 25px;
+}
+
 .App {
   text-align: center;
 }
